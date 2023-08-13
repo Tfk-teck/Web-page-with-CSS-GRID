@@ -20,13 +20,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-
-![](images/Capture web_1_tfk-teck.github.io)
-
-
-![](images/Capture web_2_tfk-teck.github.io)
-
 ### Links
 
 - Solution URL: [Solution URL](https://tfk-teck.github.io/Web-page-with-CSS-GRID/)
